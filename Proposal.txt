@@ -1,0 +1,21 @@
+﻿information====
+acronym: viết tắt
+Title: tên đầy đủ-có thể dài
+startdate:
+enđate: tuần13
+product owner: ng đưa ra idea
+partner organization: đối tác ko
+scrum master: leader 
+team member: nhữung ng còn lại
+
+Revison history: có thay đổi j về bản đó, nâng vêrsion
+---
+ project overviêw: 
+1.2 trên thị trường cso sp nào, cái mình ntn mà họ ko có
+1.3 xd để giải quyết đìu fj
+1.4 chi tiết, liệt kê chức năng
+1.5 liệt kê all công nghệ
+Time estimation: 
+master schdule, time line từng tuần làm j
+Rolé and sespónibilities:
+
